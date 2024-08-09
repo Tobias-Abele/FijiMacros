@@ -5,7 +5,7 @@
 
 
 ///// Change the number of positions of your multi-position image /////
-positions = 18
+positions = 18;
 
 path = File.openDialog("Select a File");
 for (i = 1; i < positions+1; i++) {
