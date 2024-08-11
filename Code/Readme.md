@@ -1,7 +1,7 @@
 In this folder, all files can be found.
 
 ### A) PeripheralIntensityDetermination_TimeSeries_Simplified.ijm
-This macro can be used to quantify the peripheral fluorescence intensity of vesicles over time, originally used with single microscopy stacks in .czi format.
+  This macro can be used to quantify the peripheral fluorescence intensity of vesicles over time, originally used with single microscopy stacks in .czi format.
 This macro 
   1. segments vesicles and 
   2. draws line orthogonally to the detected rings and 
