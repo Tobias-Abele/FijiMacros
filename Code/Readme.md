@@ -17,3 +17,8 @@ Example of usage: Align two stitched tile images taken at two different time poi
 This macro can be used for splitting multi-position microscopy stacks into single positions, that are being being loaded and saved seperately.
 This requires to to know the number of positions before running the script.
 Example of usage: Splitting multi-position experiment files that are too large to handle for the computer all at once.
+
+### D) OpenImagesSaveFirstChannel.ijm
+This macro can be used to save a desired channel (e.g., the first one) of a microscopy stack for all open images.
+This requries a .tif file in the beginning..
+Example of usage: Open all your stacks of an experiment and save only the first channel for each of them.
